@@ -2,7 +2,7 @@
 
 # Lock files
 yarn.lock
-
+.env
 # Logs
 logs
 *.log
